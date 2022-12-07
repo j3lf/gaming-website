@@ -1,2 +1,2 @@
-# gaming-websiteMade made by jeff sub to my youtube channel for more games! https://www.youtube.com/channel/UCzE4--1QSuFUVVh48J-uXIg
-my discord J3ff#5386
+Please note i do not host or make these games if you would like me to take down a game dm me on discord
+J3ff#5386 
