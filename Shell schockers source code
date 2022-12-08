@@ -2,7 +2,7 @@
 <script>
 function openGame() {
 	var win = window.open ()
-	var url = "https://shellshock.cooli.repl.co/"
+	var url = "https://g03gle-classroom.jeff-gaminggami.repl.co"
 	var iframe = win.document.createElement('iframe')
 	iframe.style.width = "100%"
 	iframe.style.height = "100%"
